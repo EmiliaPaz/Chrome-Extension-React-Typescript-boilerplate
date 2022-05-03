@@ -1,7 +1,8 @@
-# Kanban board
-Small side project to learn more about Chrome Extensions.
-Build with React and Typescript.
+# Chrome Extension + React + Typescript template
 
 ## Dev
-After making changes in the app, run `yarn run build`. This will generate a build file, which is loaded unpacked on my local chrome extensions.
-The goal is to have it released on the Chrome WebStore
+1. Clone repo
+2. After making changes in the app, run `npm run run build` to generate a build file
+3. Go to chrome://extensions and, with the developer mode checkbox ticked, load unpacked extension using the build file.
+4. The extension should look like: 
+![extension example](https://github.com/EmiliaPaz/Chrome-Extension-React-Typescript-boilerplate/blob/main/public/extension_example.png)

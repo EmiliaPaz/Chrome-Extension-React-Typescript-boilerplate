@@ -1,5 +1,5 @@
 {
-  "name": "applikan",
+  "name": "chrome-extension-react-boilerplate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,7 @@
     "@types/react-dom": "^17.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^4.0.3",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },

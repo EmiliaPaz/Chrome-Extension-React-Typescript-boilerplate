@@ -1,18 +1,13 @@
 {
-  "short_name": "appliKan",
-  "name": "Kanban board",
+  "name": "Chrome Extension +React + Typescript boilerplate ",
   "version": "1.0",
   "manifest_version": 3,
-  // "background": {
-  //   "service_worker": "background.ts"
-  // },
-  // "permissions": ["storage"],
   "action": {
     "default_popup": "index.html",
     "default_icon": {
       "16": "icon_16.png",
       "32": "icon_32.png",
-      "128": "icon_128.png"
+      "96": "icon_96.png"
     }
   }
 }
